@@ -55,7 +55,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@abhisekchakraborty8] - feel free to contact me! 
+Created by @abhisekchakraborty8 - feel free to contact me! 
 
 
 <!-- Optional -->
